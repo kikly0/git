@@ -5,5 +5,6 @@ public class halloworld {
         System.out.println("halloworld");
         System.out.println("push_test");
         System.out.println("ssh_test");
+        System.out.println("pull_test");
     }
 }
